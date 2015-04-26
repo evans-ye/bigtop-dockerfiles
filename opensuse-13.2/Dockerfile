@@ -1,4 +1,4 @@
 FROM opensuse:13.2
 MAINTAINER evansye@apache.org
 
-RUN zypper -y install puppet
+RUN zypper --gpg-auto-import-keys install -y puppet
