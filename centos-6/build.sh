@@ -1,1 +1,1 @@
-docker build -t evansye/puppet:centos-6 .
+docker build -t bigtop/puppet:centos-6 .

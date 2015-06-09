@@ -1,4 +1,4 @@
-FROM centos:7
+FROM fedora:20
 MAINTAINER evansye@apache.org
 
 RUN rpm -ivh http://yum.puppetlabs.com/puppetlabs-release-el-7.noarch.rpm; \

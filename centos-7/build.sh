@@ -1,1 +1,1 @@
-docker build -t evansye/puppet:centos-7 .
+docker build -t bigtop/puppet:centos-7 .
